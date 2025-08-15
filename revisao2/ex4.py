@@ -23,4 +23,4 @@ elif numero == 6:
     print("Sabado")
 
 else:
-    print("Domingo")
+    print("Domingo") 
